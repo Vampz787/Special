@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compliments for Mahnoor</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">For Mahnoor</h1>
+        <div class="compliments">
+            <p class="compliment">You light up every room you enter!</p>
+            <p class="compliment">Your kindness is truly inspiring.</p>
+            <p class="compliment">You have the most beautiful smile!</p>
+            <p class="compliment">You make the world a brighter place!</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
